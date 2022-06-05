@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello, my name is Nam and I am currently a student at VinUniversity.
+Here are some projects that I finished:
+
+1. Image classification
+Link: https://drive.google.com/drive/folders/1Z00fFQQQIM8sb6K_Wu-EJkR9oeW6i-cc?usp=sharing
+2. Regression
+Link: https://drive.google.com/drive/folders/1N30REoab1Rum2RsoHaYoai_99Tupf4ZS?usp=sharing
 
 <!--
 **ldnam/ldnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
