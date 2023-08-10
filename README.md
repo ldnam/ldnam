@@ -1,6 +1,6 @@
-Hello, my name is Nam and I am currently a student at VinUniversity.
+Currently a Computer Science student at VinUniversity.
 
-I love Mathematics and Science in general.
+Math lover, Traveler, Amateur musician, Spanish learner, Badminton player, Philosopher (a post-structuralist specifically), and a Gym rat.
 
 <!--
 **ldnam/ldnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
