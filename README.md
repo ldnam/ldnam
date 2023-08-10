@@ -1,4 +1,4 @@
-Currently a Computer Science student at VinUniversity.
+Computer Science student at VinUniversity. Speak three languages: Vietnamese, English, and Spanish.
 
 Math lover, Traveler, Amateur musician, Spanish learner, Badminton player, Philosopher (a post-structuralist specifically), and a Gym rat.
 
