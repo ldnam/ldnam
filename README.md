@@ -1,6 +1,6 @@
-Computer Science student at VinUniversity. Speak three languages: Vietnamese, English, and Spanish.
+Master's in Image Processing and Computer Vision. Speak three languages: Vietnamese, English, and Spanish.
 
-Math lover, Traveler, Amateur musician, Spanish learner, Badminton player, Philosopher (a post-structuralist specifically), and a Gym rat.
+Math lover, traveler, musician, sportsman, philosopher (a post-structuralist one), and a gym rat.
 
 <!--
 **ldnam/ldnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
